@@ -1,0 +1,15 @@
+#Number of tasks
+6
+
+#Task duration
+0,2
+1,3
+2,4
+3,9
+4,7
+5,9
+
+#Task dependencies
+0,4
+3,0,1,2
+4,5
